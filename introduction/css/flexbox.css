@@ -1,3 +1,10 @@
+body {
+  background-image: url("../images/your-background.jpg");
+  background-size: cover;       /* Stretches the image to fill the screen */
+  background-repeat: no-repeat; /* Prevents the image from tiling */
+  background-attachment: fixed; /* Keeps the background still when scrolling */
+}
+
 .container {
   display: flex;
   flex-wrap: wrap;
