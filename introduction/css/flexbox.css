@@ -18,3 +18,7 @@ body {
   text-align: center;  
   font-size: 30px;
 }
+
+h1, h2, h3 {
+  color: #f1f1f1;
+}
