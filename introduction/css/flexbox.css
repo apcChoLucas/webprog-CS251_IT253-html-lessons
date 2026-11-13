@@ -1,5 +1,5 @@
 body {
-  background-image: url("../images/your-background.jpg");
+  background-image: url("./images/CODM1.jpg"");
   background-size: cover;       /* Stretches the image to fill the screen */
   background-repeat: no-repeat; /* Prevents the image from tiling */
   background-attachment: fixed; /* Keeps the background still when scrolling */
