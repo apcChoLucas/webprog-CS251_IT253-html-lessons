@@ -34,14 +34,13 @@ h1, h2, h3 {
   background-color: dodgerblue;
   padding: 5px;
 }
-
-.container2 h2, .container2 h3 {
-  color: black;
-}
-
 .container2 div {
   background-color: white;
+  color: black;
   padding: 10px;
+}
+.container2 h2, .container2 h3 {
+  color: black;
 }
 .container2 div.header {
   grid-area: header;
